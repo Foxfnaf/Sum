@@ -1,9 +1,9 @@
 # Treść zadania:  
-> Masz do dyspozycji tablicę liczb values oraz wartość startValue. Zwróć sumę wszystkich liczb znajdujących się po prawej stronie startValue, przy czym:
+> Masz do dyspozycji tablicę liczb `values` oraz wartość `startValue`. Zwróć sumę wszystkich liczb znajdujących się po prawej stronie `startValue`, przy czym:
 > 
-> - suma nie powinna zawierać startValue;
-> - jeśli tablica nie zawiera startValue, zwróć 0;
-> - jeśli tablica zawiera tylko jeden element i jego wartość jest równa startValue, zwróć 0.
+> - suma nie powinna zawierać `startValue`
+> - jeśli tablica nie zawiera `startValue`, zwróć `0`
+> - jeśli tablica zawiera tylko jeden element i jego wartość jest równa ``startValue``, zwróć `0`.
 > 
 > Przykłady:  
 ```java

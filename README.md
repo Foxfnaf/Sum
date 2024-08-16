@@ -5,7 +5,7 @@
 > - jeśli tablica nie zawiera `startValue`, zwróć `0`
 > - jeśli tablica zawiera tylko jeden element i jego wartość jest równa ``startValue``, zwróć `0`.
 > 
-> Przykłady:  
+> ## Przykłady:  
 ```java
   getSum(new int[] {1, 2, 3}, 1); // 2 + 3 = 5;
  

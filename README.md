@@ -1,4 +1,4 @@
-Treść zadania
+Treść zadania:
 "Masz do dyspozycji tablicę liczb values oraz wartość startValue. Zwróć sumę wszystkich liczb znajdujących się po prawej stronie startValue, przy czym:
 
 suma nie powinna zawierać startValue;

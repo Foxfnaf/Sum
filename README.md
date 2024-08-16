@@ -7,11 +7,11 @@
 > 
 > Przykłady:  
 ```java
-  getSum(new int[] {1, 2, 3}, 1); // 2 + 3 = 5
+  getSum(new int[] {1, 2, 3}, 1); // 2 + 3 = 5;
  
-  getSum(new int[] {10, 2, 50, 3, 4, 0}, 50); // 3 + 4 + 0 = 7
+  getSum(new int[] {10, 2, 50, 3, 4, 0}, 50); // 3 + 4 + 0 = 7;
   
-  getSum(new int[] {10, 2, 50, 3, 4, 0}, -100); // 0 (brak wartości -100)
+  getSum(new int[] {10, 2, 50, 3, 4, 0}, -100); // 0 (brak wartości -100);
  
-  getSum(new int[] {10}, 10); // 0"
+  getSum(new int[] {10}, 10); // 0;
 ```
